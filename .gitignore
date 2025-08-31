@@ -1,0 +1,14 @@
+# Node.js зависимости
+node_modules/
+
+# Лог-файлы
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Секретные переменные окружения
+.env
+
+# Файлы ОС (Windows/Mac)
+.DS_Store
+Thumbs.db
