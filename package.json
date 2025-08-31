@@ -1,0 +1,8 @@
+{
+  "name": "tg-ai-proxy",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "openai": "^4.0.0"
+  }
+}
